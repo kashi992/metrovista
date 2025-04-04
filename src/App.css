@@ -6,6 +6,12 @@ margin-left: auto;
 margin-right: auto;
 padding-left: 15px;padding-right: 15px;
 }
+.logo{
+  font-family: math;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 4px;
+}
 body {
   margin: 0;
   padding: 0;

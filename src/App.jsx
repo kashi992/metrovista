@@ -8,7 +8,8 @@ function App() {
   return (
     <section className="bg-[#232A34] text-white min-h-screen py-[60px] flex flex-col">
       <div className="container flex-1 flex flex-col justify-center">
-        <h1 className="md:text-[50px] text-[30px] text-center font-semibold mb-6">Exciting Things Are Coming Soon!</h1>
+        <h1 className="uppercase text-[40px] logo text-center mb-6">metrovista</h1>
+        <h2 className="md:text-[50px] text-[30px] text-center font-semibold mb-6">Exciting Things Are Coming Soon!</h2>
         <p className="text-center leading-[1.6] mb-10 md:px-10">
         We’re working hard behind the scenes to bring something amazing. Stay tuned for updates and be the first to know when we launch!
         </p>
