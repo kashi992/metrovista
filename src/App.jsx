@@ -18,9 +18,9 @@ function App() {
         </form>
         <p class="text-center text-sm mt-4">We’ll send you exclusive updates and early access to our launch!</p>
         <div className="flex justify-center gap-5 mt-12">
-          <FB_Icon className="w-[40px] h-[40px]" iconClr="#fff"/>
-          <In_Icon className="w-[40px] h-[40px]" iconClr="#fff"/>
-          <Tw_Icon className="w-[40px] h-[40px]" iconClr="#fff"/>
+          <FB_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
+          <In_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
+          <Tw_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
         </div>
       </div>
     </section>
