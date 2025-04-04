@@ -14,7 +14,7 @@ function App() {
         </p>
         <form className="flex gap-4 justify-center md:px-10 md:flex-nowrap flex-wrap">
           <input type="text" placeholder="Email Address" className="bg-white border-white text-black h-[60px] w-full p-4 border-[1px] border-black" required/>
-          <button className="bg-white text-black px-6 py-2 border-[1px] border-black cursor-pointer hover:bg-transparent hover:text-white transition-all duration-300 text-nowrap uppercase md:w-fit w-full md:h-full h-[50px]">Notify Me!</button>
+          <button className="bg-white text-black px-6 py-2 border-[1px] border-black cursor-pointer hover:bg-transparent hover:text-white transition-all duration-300 text-nowrap uppercase md:w-fit w-full md:h-[60px] h-[50px]">Notify Me!</button>
         </form>
         <p class="text-center text-sm mt-4">We’ll send you exclusive updates and early access to our launch!</p>
         <div className="flex justify-center gap-5 mt-12">
