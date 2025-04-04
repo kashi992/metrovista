@@ -17,11 +17,11 @@ function App() {
           <button className="bg-white text-black px-6 py-2 border-[1px] border-black cursor-pointer hover:bg-transparent hover:text-white transition-all duration-300 text-nowrap uppercase md:w-fit w-full md:h-[60px] h-[50px]">Notify Me!</button>
         </form>
         <p class="text-center text-sm mt-4">We’ll send you exclusive updates and early access to our launch!</p>
-        <div className="flex justify-center gap-5 mt-12">
+        {/* <div className="flex justify-center gap-5 mt-12">
           <FB_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
           <In_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
           <Tw_Icon className="w-[40px] h-[40px] cursor-pointer" iconClr="#fff"/>
-        </div>
+        </div> */}
       </div>
     </section>
   );
